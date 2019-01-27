@@ -1322,3 +1322,5 @@ Mobirise has provided for website developers a growing library of modern blocks 
 Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.
 ### Create a beautiful website.
 Whether you want to create a blog, eCommerce store, portfolio, or all of the above, you can express your idea with a website powered by our elegant yet intuitive platform.
+
+:D
